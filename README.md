@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GHOST-KIRA
+- 👋 Hi, I’m Shubham Shewale
 - 👀 I’m interested in Coding , Gaming and Reading Historic Books
 - 🌱 I’m currently learning Front-end Web Development
 - 💞️ I’m looking to collaborate on the topic which i will specify in near future
