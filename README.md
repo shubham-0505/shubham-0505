@@ -7,6 +7,7 @@ CSE Student 🧑🏻‍💻 | Enthusiastic Learner 📙 | Web Developer 🕸 | E
 * ✉️  You can contact me at [shubhamshewale8004@gmail.com](mailto:shubhamshewale8004@gmail.com)
 * 🧠  I'm learning Web Development and Data Structures
 * 🤝  I'm open to collaborating on Web Developement Projects
+* ❤️  Contributions and Suggestions on projects are always welcomed
 * ⚡  I like exploring Linux and other Operating Systems
 
 ### Skills
